@@ -1,0 +1,13 @@
+body{
+    background: red;
+    color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 100px;
+}
+
+header{
+    border-bottom: 3px solid yellow;
+    padding: 20px;
+    color: white;
+    font-size: 35px;
+}
