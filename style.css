@@ -11,3 +11,12 @@ header{
     color: white;
     font-size: 35px;
 }
+
+.chamada{
+    background:white;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+    margin-right: 25%;
+}
+h1{font-size: 35px;}
